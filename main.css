@@ -1,0 +1,134 @@
+.topBar{
+    width:100%;
+    height: 65px;
+    padding: 0 0 20px 0;
+    overflow:visible !important;
+    margin:0 auto;
+    background-color: brown;
+    transform:translate(0,0);
+    opacity:1;
+    box-shadow: 0 0 4px rgba(0 0 0 0);
+}
+.top-logo{
+    width:15%;
+    height: 65px;
+    background-color: white;
+    float:left;
+    margin:10px 12.5px;
+}
+.menuIconBar .sd-icon-menu{
+    width: 16px;
+    height: 11px;
+    font-size:21px;
+    margin: 16px 0px 0px -6px;
+}
+*[class*=sd-icon-]{
+    display: inline-block;
+    text-align: center;
+}
+.top-header{
+    width: 100%;
+    height:65px;
+    margin: 0 auto;
+    overflow:visible !important;
+    transform: translate(0,0);
+    opacity: 1;
+    box-shadow: 0 0 4px rgba(0 0 0 0);
+    background-color:black;
+}
+.logo{
+    width:20%;
+    height: 65px;
+    background-color:white;
+    float: left;
+    margin: 10px 40px 0px 0px;
+}
+.menu{
+    width:70%;
+    height: 65px;
+    background-color:white;
+    float: left;
+    margin: 10px 50px 0px 0px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+li a{
+    color:black;
+    background-color: white;
+    display: inline-block;
+    padding:0px 50px;
+}
+li a:hover{
+    color:white;
+    background-color:grey;
+    border-top:1px solid greenyellow;
+    border-bottom:1px solid greenyellow;
+}
+.top-image{
+    width:100%;
+    height: 90px;
+    background-color: black;
+    margin: 0px 10px 0px 0px;
+}
+.nav{
+    width:100%;
+    height: 500px;
+    padding: 0 0 20px 0;
+    overflow:visible !important;
+    margin:0 auto;
+    background-color: brown;
+    transform:translate(0,0);
+    opacity:1;
+    box-shadow: 0 0 4px rgba(0 0 0 0);
+}
+.nav-image{
+    width: 10%;
+    height: 100px;
+    background-color:white;
+}
+
+.text-content{
+    width: 90%;
+    height:100px ;
+    background-color: rgb(115, 115, 134);
+margin: 0px 5px 0px 0px;
+}
+.rest-padding{
+    width:1200px;
+    height: 2794px;
+    padding: 0px;
+    margin-top:77px;
+    background-color: blue;
+    margin-left: 22px;
+}
+.left-wrapper{
+    background-color: blueviolet;
+    margin-right: 2px;
+    font-family: "font regular";
+    padding: 17px;
+    overflow: hidden;
+    font-size: 100%;
+     font: inherit;
+     float: left;
+     width:300px;
+     height: 700px;
+}
+.right-wrapper{
+    width:1200px;
+    height: 700px;
+    background-color: white;
+    border-left:solid thin black;
+}
+.menuBar{
+    width:900px;
+    height: 65px;
+    background-color:white;
+    float: left;
+    margin: 0px 10px 0px 0px;
+}
